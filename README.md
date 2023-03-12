@@ -7,11 +7,15 @@ I am a software engineer with a passion for open-source projects and building us
 Here are some of the projects that I've worked on:
 
 ### Swift Libraries
-- [ZMarkupParser](https://github.com/ZhgChgLi/ZMarkupParser): A pure-Swift library that helps you to convert HTML strings to NSAttributedString with customized style and tags.
+- [ZMarkupParser](https://github.com/ZhgChgLi/ZMarkupParser) is a pure-Swift library that helps you to convert HTML strings to NSAttributedString with customized style and tags.
+- [ZPlayerCacher](https://github.com/ZhgChgLi/ZPlayerCacher) is a lightweight implementation of the AVAssetResourceLoaderDelegate protocol that enables AVPlayerItem to support caching streaming files.
+- [ZNSTextAttachment](https://github.com/ZhgChgLi/ZNSTextAttachment) enables NSTextAttachment to download images from remote URLs, support both UITextView and UILabel.
 
-### Fun Tools
-- [ZReviewTender](https://github.com/ZhgChgLi/ZReviewTender): A tool for fetching and integrating app store and Google Play app reviews into your workflow.
-- [ZMediumToMarkdown](https://github.com/ZhgChgLi/ZMediumToMarkdown): A tool for downloading Medium posts and converting them to Markdown format.
+### Integration Tools
+- [ZReviewTender](https://github.com/ZhgChgLi/ZReviewTender) is a tool for fetching app reviews from the App Store and Google Play Console and integrating them into your workflow.
+- [ZMediumToMarkdown](https://github.com/ZhgChgLi/ZMediumToMarkdown) is a powerful tool that allows you to effortlessly download and convert your Medium posts to Markdown format.
+
+
 
 
 ## Blog
